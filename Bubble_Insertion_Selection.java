@@ -32,6 +32,8 @@ public class Bubble_Insertion_Selection {
 			list[i+1] = temp;
 		}
 	}
+	public static void bubbleSort(int[] list){
+		
 			
 	public static void main(String[] args) {
 		int[] lost = new int[]{2,5,7,1,32,8,0};
